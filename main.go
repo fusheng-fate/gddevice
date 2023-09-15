@@ -1,1 +1,1 @@
-package gddevice
+package main
